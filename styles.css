@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+  }
+  
+  h1 {
+    margin-top: 20px;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    margin: 20px auto;
+    max-width: 800px;
+  }
+  
+  canvas {
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+  }
+  
+  #output {
+    margin-left: 20px;
+    text-align: left;
+  }
+  
+  #output h2, #output h3 {
+    margin-top: 0;
+  }
+  
+  #currentPath {
+    margin-bottom: 20px;
+  }
+  
+  #results {
+    max-height: 200px;
+    width: 400px;
+    overflow-y: auto;
+    border: 1px solid #ccc;
+    padding: 10px;
+    background-color: #fff;
+  }
+  
+  .controls {
+    margin: 20px;
+  }
+  
+  label, button {
+    margin: 0 10px;
+    font-size: 16px;
+  }
+  
+  button {
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
