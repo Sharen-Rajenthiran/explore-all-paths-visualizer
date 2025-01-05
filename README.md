@@ -10,7 +10,7 @@ This project is a visual representation of exploring all nodes and computing the
 3. Watch the animation as the algorithm explores all nodes, computing the distances.
 
 ## Demo ⚙️
-[Watch the demo.](./explore_all_nodes_brute_force_demo.mp4)
+!(./explore_all_paths_brute_force_demo.gif)
 
 
 ## Future Improvements ✍🏻
