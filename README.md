@@ -5,12 +5,12 @@ This project is a visual representation of exploring all nodes and computing the
 
 ## How to Use ✅
 1. Clone this repository to your local machine:
-     `git clone https://github.com/sharen-rajenthiran/explore-all-paths-visualizer.git`
+     `git clone https://github.com/Sharen-Rajenthiran/explore-all-paths-visualizer`.
 2. Open the `index.html` file in any modern web browser.
 3. Watch the animation as the algorithm explores all nodes, computing the distances.
 
 ## Demo ⚙️
-[Watch the demo](./explore_all_nodes_brute_force_demo.mp4)
+[Watch the demo.](./explore_all_nodes_brute_force_demo.mp4)
 
 
 ## Future Improvements ✍🏻
